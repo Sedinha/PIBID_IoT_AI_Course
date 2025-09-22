@@ -3,6 +3,8 @@
 ## 1. Objetivo da Aula
 - Contextualizar a evolução da IoT, desde as primeiras ideias até o termo oficial.
 - Preparar os alunos para a Avaliação Formativa 2, focando no **autor** e na **data** de criação do termo "Internet das Coisas".
+- Garantir que 100% dos alunos consigam identificar corretamente que Kevin Ashton criou o termo "Internet das Coisas" em 1999 e saibam diferenciar os principais marcos históricos que aparecem na Avaliação Formativa 2.
+
 
 ## 2. Dinâmica da Aula (Foco na Certificação)
 1.  **Apresentação (15 min):** Exibir os slides `Slides_Modulo_2_Historia_IoT.md`. Dar ênfase especial ao slide sobre Kevin Ashton e o ano de 1999.
